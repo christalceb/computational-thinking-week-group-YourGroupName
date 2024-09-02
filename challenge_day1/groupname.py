@@ -1,0 +1,10 @@
+def Felicia():
+    return "Felicia"
+def Gadis():
+    return "Gadis"
+def Christal():
+    return "Christal"
+def Farah():
+    return "Farah"
+def Nikko():
+    return "Nikko"
